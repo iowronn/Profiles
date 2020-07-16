@@ -105,10 +105,12 @@ IP-CIDR,198.45.48.0/20,no-resolve
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
-# > Pornhub
+# > Porn
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,sis001.com
+DOMAIN-SUFFIX,sexinsex.com
 # > Twitch
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
